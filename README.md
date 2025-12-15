@@ -1,6 +1,6 @@
 # Spotify Downloader Web
 
-A simple web interface to download Spotify tracks using the [Song API](https://github.com/Soumyadeep765/song).
+A simple web interface to download Spotify tracks using the [Song API](https://github.com/mmuizahmed/song).
 
 ## Features
 - Download tracks by pasting Spotify URLs
@@ -14,9 +14,9 @@ A simple web interface to download Spotify tracks using the [Song API](https://g
 3. Click download to get your MP3 file
 
 ## Live Demo
-[Try it here](https://spotify-down-seven.vercel.app/)
+[Try it here](https://soumyadeep765.github.io/Spotify-down/)
 ## Related Projects
-- [Backend API](https://github.com/Soumyadeep765/song) - The Node.js API powering this web app
+- [Backend API](https://github.com/mmuizahmed/song) - The Node.js API powering this web app
 
 ## Support
 ⭐ Star the repo if you find this useful  
